@@ -10,3 +10,8 @@ if start > end than it will swap the postion than it will do susbtring
 
 
 `
+
+let stres = "Hello World";
+
+let newStress = stres.substring(-5, 3);
+console.log(newStress);
